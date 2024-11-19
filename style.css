@@ -22,6 +22,15 @@
     font-weight: bold;
 }
 
+.clients {
+    color: blue;
+    list-style-type: none;
+}
+
+.clients li:hover {
+    font-weight: bold;
+}
+
 footer {
     color: green;
     text-decoration: underline;
